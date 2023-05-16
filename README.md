@@ -9,3 +9,10 @@ This is embeded code for figma file:-
 This is link for figma project:- 
 
 https://www.figma.com/file/dpcBG984mYDhHnLz0mKmvA/Untitled?type=design&node-id=0%3A1&t=Pl96Olnbp8Ob27Ef-1
+
+# Steps to run this project
+
+Copy the above link in your browser it will start the project.
+
+This project contains of three pages.
+
